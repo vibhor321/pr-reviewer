@@ -1,0 +1,5 @@
+langchain-google-vertexai
+composio-core 
+composio-langchain
+langchain-openai
+python-dotenv
